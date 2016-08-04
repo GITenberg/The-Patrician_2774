@@ -1,0 +1,27 @@
+_repo: The-Patrician_2774
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Galsworthy, John
+    alias: Sinjohn, John
+    birthdate: 1867
+    deathdate: 1933
+    gutenberg_agent_id: '850'
+    url: http://www.gutenberg.org/2009/agents/850
+    wikipedia: http://en.wikipedia.org/wiki/John_Galsworthy
+description: ''
+gutenberg_issued: '2006-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2774'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Upper class -- England -- Fiction'
+- !lcsh 'Aristocracy (Social class) -- Fiction'
+- GITenberg
+title: The Patrician
+url: http://www.gutenberg.org/ebooks/2774
